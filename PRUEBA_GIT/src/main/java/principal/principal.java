@@ -10,7 +10,7 @@ public class principal {
 		System.out.println("Comienzo de mi programa4");
 		System.out.println("Version Github");
 		System.out.println("Version editada el domingo");
-		
+		System.out.println("Prueba pa unas cosas");
 		
 	}
 
