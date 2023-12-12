@@ -15,8 +15,9 @@ public class principal {
 		System.out.println("Sigue trabajando en la rama master");
 		
 		System.out.println("Soy becario y me dejan cambiar la clase principal");
+		System.out.println("Soy becario y me dejan cambiar la clase principal");
 
-		
+		System.out.println("Trabajo en equipo");
 	}
 
 }
